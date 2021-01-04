@@ -1,1 +1,6 @@
-#WRITE YOUR CODE IN THIS FILE
+def password(x):
+    if Knights19:
+        return True
+    else:
+        return False
+print (password(Knights19))
