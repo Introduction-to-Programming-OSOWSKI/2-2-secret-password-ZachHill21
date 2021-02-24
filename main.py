@@ -1,6 +1,6 @@
 def password(x):
-    if Knights19:
+    if x == "Knights19":
         return True
     else:
         return False
-print (password(Knights19))
+print (password("Knights19"))
